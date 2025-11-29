@@ -28,7 +28,7 @@ namespace WeatherApi.Services
                 response.EnsureSuccessStatusCode();
 
                 var apiResult = await response.Content.ReadAsStringAsync(cancellationToken);
-                return apiResult; // خام، بدون دستکاری
+                return apiResult;  
             }
             catch
             {

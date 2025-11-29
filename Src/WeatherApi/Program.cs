@@ -47,7 +47,7 @@ static async Task<IResult> GetWeather(
 {
     string? weather;
 
-    // 1) سعی می‌کنیم از سرویس بیرونی بخونیم
+ 
     try
     {
         weather = await weatherService.GetWeatherAsync(cancellationToken);
@@ -56,8 +56,7 @@ static async Task<IResult> GetWeather(
     {
         weather = null;
     }
-
-    // 2) اگر سرویس بیرونی fail شد → fallback به DB
+ 
     if (weather is null)
     {
         try
@@ -78,8 +77,7 @@ static async Task<IResult> GetWeather(
             return Results.Ok<string?>(null);
         }
     }
-
-    // 3) اگر داده جدید داریم → ذخیره در DB (به‌صورت best-effort)
+ 
     try
     {
         var entity = new WeatherForecast(weather);
@@ -88,9 +86,9 @@ static async Task<IResult> GetWeather(
     }
     catch
     {
-        // اگر ذخیره خراب شد، طبق قرارداد هنوز باید پاسخ معتبر بدیم
+  return Results.Ok<string?>(null);
     }
 
-    // 4) در هر صورت داده‌ی تازه را بدون تغییر برمی‌گردونیم
+ 
     return Results.Content(weather, "application/json");
 }
