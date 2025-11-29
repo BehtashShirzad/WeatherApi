@@ -7,6 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApi", "Src\WeatherApi\WeatherApi.csproj", "{12E1E314-DF7F-9776-9D92-833AD1F5885A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C661AF77-EFF2-4597-B460-8F43A101AD55}"
+	ProjectSection(SolutionItems) = preProject
+		test\weather-load-test.js = test\weather-load-test.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
