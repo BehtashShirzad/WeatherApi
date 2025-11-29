@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Task\\src\\WeatherApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\services\\weatherclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\services\\weatherclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\configuration\\weatherserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\configuration\\weatherserviceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\configuration\\configureapplciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\configuration\\configureapplciation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\weatherapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\weatherapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|d:\\projects\\task\\src\\weatherapi\\src\\weatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12E1E314-DF7F-9776-9D92-833AD1F5885A}|Src\\WeatherApi\\WeatherApi.csproj|solutionrelative:src\\weatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 355,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherClientService.cs",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Services\\WeatherClientService.cs",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\Services\\WeatherClientService.cs",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Services\\WeatherClientService.cs",
+              "RelativeToolTip": "Src\\WeatherApi\\Services\\WeatherClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:51:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Src\\WeatherApi\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:51:28.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherServiceOptions.cs",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Configuration\\WeatherServiceOptions.cs",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\Configuration\\WeatherServiceOptions.cs",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Configuration\\WeatherServiceOptions.cs",
+              "RelativeToolTip": "Src\\WeatherApi\\Configuration\\WeatherServiceOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:51:15.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureApplciation.cs",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Configuration\\ConfigureApplciation.cs",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\Configuration\\ConfigureApplciation.cs",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Configuration\\ConfigureApplciation.cs",
+              "RelativeToolTip": "Src\\WeatherApi\\Configuration\\ConfigureApplciation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:51:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Program.cs",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\Program.cs",
+              "RelativeToolTip": "Src\\WeatherApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:50:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\appsettings.json",
+              "RelativeToolTip": "Src\\WeatherApi\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T22:44:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherApi.csproj",
+              "DocumentMoniker": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\WeatherApi.csproj",
+              "RelativeDocumentMoniker": "Src\\WeatherApi\\WeatherApi.csproj",
+              "ToolTip": "D:\\Projects\\Task\\src\\WeatherApi\\Src\\WeatherApi\\WeatherApi.csproj",
+              "RelativeToolTip": "Src\\WeatherApi\\WeatherApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T22:43:56.961Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
